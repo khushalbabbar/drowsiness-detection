@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.write('Drowsiness detection')
+st.title('Drowsiness detection')
 
 
